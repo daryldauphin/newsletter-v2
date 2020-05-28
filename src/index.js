@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './fonts/Elaine_D02/Elaine_D02.woff'
 
 ReactDOM.render(
   <React.StrictMode>
